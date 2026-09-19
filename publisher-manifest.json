@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "dbd8d43e797cc135c191ef86",
+  "owner": "wrhtxava",
+  "repo": "page-c12121817dee051afff5677b",
+  "title": "免费订阅导入",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c12121817dee051afff5677b",
+      "a": "少数派",
+      "b": "免费订阅导入",
+      "entity": "少数派",
+      "brand": "免费订阅导入",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0f5c9eda010b8910d8bf5218db141ce3a2f1c26173db11f4afcf73fc607e39af",
+      "content": {
+        "primary_entity": "少数派",
+        "keyword1": "少数派",
+        "keyword2": "免费订阅导入",
+        "content": {
+          "AI_CLIENTS_INTRO": "手机、电脑、路由器与电视盒子各有适配客户端，按设备挑对应版本。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "先确认设备数量与流量需求，再选基础版、旗舰版或团队版。",
+          "AI_CLOSING_TITLE": "选对套餐，配置订阅",
+          "AI_DESCRIPTION": "，按设备数量、流量与流媒体需求划分基础版、旗舰版与团队版三档，月付与年付均有对应价格，导入订阅后即可在常用客户端使用。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量与订阅周期展开，方便快速对齐需求。",
+          "AI_FEATURES_TITLE": "特点概览",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备；旗舰版300GB、5台设备；团队版1000GB、20台设备，按需选档。",
+          "AI_FEATURE_TEXT_2": "旗舰版含IPLC专线游戏加速与全节点原生流媒体解锁，适合高频观看与游戏场景。",
+          "AI_FEATURE_TEXT_3": "三档均提供年付价格，从基础版150元/年到团队版850元/年，周期越长单月越低。",
+          "AI_FEATURE_TITLE_1": "三档套餐",
+          "AI_FEATURE_TITLE_2": "场景适配",
+          "AI_FEATURE_TITLE_3": "年付周期",
+          "AI_GUIDE_INTRO": "从需求确认到订阅导入，按顺序完成三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "少数派提供按月与按年订阅的海外加速方案，覆盖基础版、旗舰版与团队版三档，支持手机、电脑、路由器与电视盒子等设备客户端，按流程导入订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "少数派，按需选加速计划",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖100GB至1000GB流量",
+          "AI_HIGHLIGHT_2": "支持3至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "月付与年付灵活切换",
+          "AI_PLANS_INTRO": "三档套餐按月与按年列出价格、流量和设备数量，方便对比后选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数量和流媒体或游戏需求，确定基础版、旗舰版还是团队版。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配情况，阅读对应客户端文档中的订阅导入说明。",
+          "AI_STEP_TEXT_3": "按客户端文档将订阅地址或配置导入应用，完成后即可在已购档位内使用。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "海外加速，按需选档",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅？",
+          "AI_FAQ_ANSWER_1": "在对应客户端中选择从链接导入，粘贴购买后获得的订阅地址，保存并更新节点列表。",
+          "AI_FAQ_QUESTION_2": "最多能同时几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线，超出会挤掉旧设备。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付相比月付更划算，基础版年付150元、旗舰版350元、团队版850元，相当于节省两个月费用。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "当月流量耗尽后可等待下月重置，或升级至更高版本获取更多流量。",
+          "AI_FAQ_QUESTION_5": "支持哪些设备系统？",
+          "AI_FAQ_ANSWER_5": "主流桌面和移动系统都有对应客户端，具体以客户端文档说明为准，建议先查看适配要求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "cb0e0bfbb66bc49233ae9ffd15f0071fdedcf3f3a0abf0558192d737051282dc",
+    "sitemap.xml": "9d3a94f5648a0f010c2c16b32d49ddadf493119ce1d8a06f733aea4677c811d8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "414fff5a37dd08bf62489bc866e363abe13b4388b67c0997f846cb5fa3bfcc1c"
+}
